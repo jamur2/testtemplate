@@ -5,3 +5,5 @@ feature2).
 
 If you merge both branches to master, you'll get a conflict.  Feel
 free to play with mergetools to see which one works best for you.
+
+Test PR
